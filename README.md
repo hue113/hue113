@@ -1,4 +1,11 @@
 ### Hello! My name's Hue 👋👋
 
 I'm a developer that mostly use React.js, React Native, Redux, Node.js. <br />
-I currently live in Ottawa but I'd love to relocate to work in different provinces.
+I currently live in Ottawa but I'm willing to relocate to work in different areas.
+
+
+![Hue's GitHub stats](https://github-readme-stats.vercel.app/api?username=hue113&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hue113&langs_count=6&layout=compact&theme=cobalt)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=dracula)
