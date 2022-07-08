@@ -1,6 +1,6 @@
 ### Hello! My name's Hue 👋👋
 
-I'm a developer that mostly use React.js, React Native, Redux, Node.js. <br />
+I'm a software developer that mostly use React/TypeScript + Node.js for both websites and mobile application development. <br />
 I currently live in Ottawa but I'm willing to relocate to work in different areas.
 
 
